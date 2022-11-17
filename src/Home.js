@@ -64,7 +64,7 @@ export default function Home() {
                             <Button variant="contained">Home</Button>
                             <Button variant="contained">Browse Legislation</Button>
                             <Button variant="contained" onClick={() => {
-                                navigate('/timeline');
+                                navigate('/Intermediate');
                             }}>New Legislation</Button>
                             <Button variant="contained">Coronavirus Legislation</Button>
                             <Button variant="contained">Changes To Legislation</Button>
@@ -115,7 +115,6 @@ export default function Home() {
             </div>
             <div className="serviceBox9" style={{ border: '1px solid black' }}>
                 <div className="box6">
-                    <h2></h2>
                     <p>Help     About Us    Site Map    Accessibility    Contact Us     Privacy Notice      Cookies</p>
                 </div>
             </div>
