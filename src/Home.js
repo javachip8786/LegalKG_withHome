@@ -62,10 +62,10 @@ export default function Home() {
                     <Row>
                         <Stack spacing={2} direction="row">
                             <Button variant="contained">Home</Button>
-                            <Button variant="contained">Browse Legislation</Button>
                             <Button variant="contained" onClick={() => {
                                 navigate('/Intermediate');
-                            }}>New Legislation</Button>
+                            }}>Browse Legislation</Button>
+                            <Button variant="contained">New Legislation</Button>
                             <Button variant="contained">Coronavirus Legislation</Button>
                             <Button variant="contained">Changes To Legislation</Button>
                         </Stack>
