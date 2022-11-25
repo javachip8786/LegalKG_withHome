@@ -144,7 +144,21 @@ const Timeline_sec3 = () => {
   }, [curIndex, previous])
 
   return (
+    <div>
+
+    <div className="serviceBox7" style={{ border: '1px solid black' }}>
+                  
+                  <div className="box5">
+                      <h2>Chapter 1 - PRELIMINARY</h2>
+                      <p>
+                          <p>1-Short title, extent and commencement</p>
+                      </p>
+                  </div>
+
+      </div>
+ 
       <div style={{'display': 'flex', 'flexDirection': 'column', 'alignItems': 'center', 'justifyContent': 'center'}}>
+         
          <Box sx={{ width: '100%' }} style={{'margin': '2%'}}>
           <Stepper alternativeLabel activeStep={curIndex} connector={<ColorlibConnector />}>
             {EXAMPLE.map((label, idx) => (
@@ -157,6 +171,7 @@ const Timeline_sec3 = () => {
             ))}
           </Stepper>
         </Box>
+
         <div style={{'background': '#eee', 'width': '80vw', 'padding':'0% 2% 2% 2%'}}>
           <div className='text-center'>
             <h3>{curStatus.text1}</h3>
@@ -201,6 +216,8 @@ const Timeline_sec3 = () => {
             {curStatus.text12}
           </div>
         </div>
+      </div>
+
       </div>
     );
 }

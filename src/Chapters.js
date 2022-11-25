@@ -57,7 +57,7 @@ export default function Chapters() {
             </ListItemIcon>
             <ListItemText primary="1-Short title, extent and commencement" />
           </ListItemButton>
-          <ListItemButton sx={{ pl: 4 }} onClick={() => {navigate('/timeline_sec3');}}>
+          <ListItemButton sx={{ pl: 4 }} onClick={() => {navigate('/timeline_sec4');}}>
             <ListItemIcon>
               <StarBorder />
             </ListItemIcon>
