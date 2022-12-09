@@ -1,0 +1,306 @@
+div.box       { position: absolute; background: #eee;
+    width: 100%;
+    height: 28%;
+    padding: 1%;
+    top: 40%; 
+} 
+
+.rectangleButton {
+    position: absolute;
+    top: 232px;
+    left: 0;
+  }
+  .rectangleButton1,
+  .rectangleButton2 {
+    position: absolute;
+    top: 14.55%;
+    left: 46.5%;
+  }
+  .rectangleButton2 {
+    left: 28.5%;
+  }
+  .rectangleButton3 {
+    position: absolute;
+    top: 14.55%;
+    left: 64.5%;
+  }
+  .rectangleButton4,
+  .rectangleDiv {
+    position: absolute;
+      top: 14.55%;
+      left: 22%;
+  }
+  .rectangleDiv {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 14%;
+  }
+  .screenshot20221201At1123 {
+    position: absolute;
+    top: 3.4%;
+    left: 5%;
+    width: 8%;
+    height: 8%;
+    object-fit: cover;
+  }
+  .legislationgovinDiv {
+    position: absolute;
+    top: 5.5%;
+    left: 16%;
+    font-size: 249%;
+    display: inline-block;
+    width: 49%;
+    height: 5%;
+    text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  }
+  .rectangleDiv1 {
+    position: absolute;
+    top: 17.3%;
+    left: 0%;
+    background-color: #5c5c5c;
+    width: 100%;
+    height: 21%;
+  }
+  .rectangleDiv2,
+  .rectangleDiv3 {
+    position: absolute;
+    left: 17%;
+    width: 67%;
+  }
+  .rectangleDiv2 {
+    top: 17.3%;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 0 0 4px rgb(255 255 255 / 1%);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    height: 27.35%;
+  }
+  .rectangleDiv3 {
+    top: 683.93px;
+    background-color: #424242;
+    height: 66.36px;
+  }
+  .rectangleButton5,
+  .rectangleButton6 {
+    position: absolute;
+    top: 41.2%;
+    left: 20%;
+  }
+  .rectangleButton6 {
+    left: 32%;
+  }
+  .rectangleButton7,
+  .rectangleButton8 {
+    position: absolute;
+    top: 41.2%;
+    left: 45%;
+  }
+  .rectangleButton8 {
+    left: 58%;
+  }
+  .rectangleButton9,
+  .rectangleDiv4 {
+    position: absolute;
+    top: 41.2%;
+    left: 71%;
+  }
+  .rectangleDiv4 {
+    top: 46.7%;
+    left: 17%;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 0 0 4px rgb(255 255 255 / 1%);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 67%;
+    height: 13.3%;
+  }
+  .newLegislationB {
+    position: absolute;
+    top: 48%;
+    left: 19.5%;
+    display: inline-block;
+    width: 20%;
+    height: 15%;
+    text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  }
+  .stayUpTo {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .stayUpToDateWithNewlyEna {
+    position: absolute;
+    top: 50%;
+    left: 19.5%;
+    display: inline-block;
+    width: 60%;
+    height: 30%;
+    text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  }
+  .rectangleDiv5 {
+    position: absolute;
+    top: 60.5%;
+    left: 17%;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 67%;
+    height: 14.6%;
+  }
+  .findingYourWayAroundLegisl {
+    position: absolute;
+    top: 62%;
+    left: 19.5%;
+    display: inline-block;
+    width: 32%;
+    height: 20%;
+  }
+  .blankLineP {
+    margin: 0;
+  }
+  .legislationgovukCarriesMos {
+    position: absolute;
+    top: 64%;
+    left: 19.5%;
+    display: inline-block;
+    width: 60%;
+    height: 21%;
+    text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  }
+  .rectangleDiv6,
+  .rectangleDiv7 {
+    position: absolute;
+    left: 17%;
+    background-color: var(--color-gray-100);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 67%;
+  }
+  .rectangleDiv6 {
+    top: 75.5%;
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+    height: 15.5%;
+  }
+  .rectangleDiv7 {
+    top: 91.5%;
+    height: 7%;
+  }
+  .understandingLegislationB {
+    position: absolute;
+    top: 76.5%;
+    left: 19.5%;
+    display: inline-block;
+    width: 22%;
+    height: 10%;
+  }
+  .iconsaxLinearfacebook,
+  .iconsaxLineargoogle {
+    position: absolute;
+    top: 1575px;
+    left: 849px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .iconsaxLineargoogle {
+    left: 785px;
+  }
+  .vectorIcon {
+    height: 89.58%;
+    width: 89.58%;
+    top: 5.21%;
+    right: 5.21%;
+    bottom: 5.21%;
+    left: 5.21%;
+  }
+  .vectorIcon,
+  .vectorIcon1,
+  .vectorIcon2 {
+    position: absolute;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon1 {
+    height: 35.42%;
+    width: 35.42%;
+    top: 32.29%;
+    right: 32.29%;
+    bottom: 32.29%;
+    left: 32.29%;
+  }
+  .vectorIcon2 {
+    height: 8.33%;
+    width: 8.38%;
+    top: 25%;
+    right: 22.3%;
+    bottom: 66.67%;
+    left: 69.32%;
+  }
+  .iconsaxLinearinstagramButton {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 1575px;
+    left: 651px;
+  }
+  .iconsaxLinearwhatsapp {
+    position: absolute;
+    top: 1575px;
+    left: 716px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .copyrightAllRightsReserved {
+    position: absolute;
+    top: 1611px;
+    left: 671px;
+    font-size: 12.84px;
+    display: inline-block;
+    width: 191px;
+    height: 29px;
+    text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  }
+  .screenshot20221201At1155,
+  .screenshot20221201At1157 {
+    position: absolute;
+    top: 18%;
+    left: 23.3%;
+    width: 53.6%;
+    height: 22%;
+    object-fit: cover;
+  }
+  .screenshot20221201At1157 {
+    top: 2.5%;
+    left: 90%;
+    width: 8%;
+    height: 12%;
+  }
+  .howLegislationWorksHowParl {
+    position: absolute;
+    top: 1322px;
+    left: 284px;
+    display: inline-block;
+    width: 971px;
+    height: 198px;
+  }
+  .desktop2 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1680px;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
+
+
+a.divLink     { position: absolute; opacity: 0 /*hide URL*/; 
+    width: 100%; height: 100%; top: 0; left: 0; }
