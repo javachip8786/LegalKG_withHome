@@ -147,7 +147,7 @@ const Timeline_sec4 = () => {
   return (
     <>
     <Header/>
-      <div style={{'display': 'flex', 'flexDirection': 'column', 'alignItems': 'center', 'justifyContent': 'center', position: 'absolute', top:'41%', left: '10%'}}>
+      <div style={{'display': 'flex', 'flexDirection': 'column', 'alignItems': 'center', 'justifyContent': 'center', position: 'absolute', top:'48%', left: '10%'}}>
          <Box sx={{ width: '100%' }} style={{'margin': '2%'}}>
           <Stepper alternativeLabel activeStep={curIndex} connector={<ColorlibConnector />}>
             {EXAMPLE.map((label, idx) => (

@@ -36,7 +36,7 @@ export default function Chapters() {
   return (
     <div style={{display:'flex' ,direction:'column'}}>
       <Header />
-       <div className="chapter" style={{position: 'absolute', top:'41%', left :'7.5%'}}>
+       <div className="chapter" style={{position: 'absolute', top:'48%', left :'7.5%'}}>
        <List
           sx={{ width: '100%', maxWidth: '100%', bgcolor: 'background.paper' }}
           component="nav"
